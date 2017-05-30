@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -x -e
 
 ANSIBLE_REPO=galaxyproject/ansible-galaxy-extras
